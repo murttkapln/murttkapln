@@ -1,3 +1,7 @@
+![MasterHead](https://rishavanand.github.io/static/images/greetings.gif
+)
+
+
 ## Hi there 👋 I'm MURAT
 
 [![](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.pngstyle=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murat-kaplan-9aa005130/) 
@@ -44,7 +48,8 @@
 
 
 ## 📈 Statistics
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=murttkapln&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=murttkapln&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murttkapln&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
