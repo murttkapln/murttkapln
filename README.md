@@ -23,8 +23,8 @@
 - Ask me anything about **NodeJS - ExpressJS - MongoDB - React - Javascript - Python - HTML5, CSS3 - Third party CSS libraries - AGILE Methodology - JIRA**.
 
 ### :mailbox_with_mail: Connect with me:
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-durul-851511151/)
-[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:murttkapln@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://[[www.linkedin.com/in/ali-durul-851511151/](https://www.linkedin.com/in/murat-kaplann/)](https://www.linkedin.com/in/murat-kaplann/))
+[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:murttkapln@gmail.com)](mailto:murttkapln@gmail.com)
 ![](https://komarev.com/ghpvc/?username=AliDurul&color=blue&style=for-the-badge)
 
 
