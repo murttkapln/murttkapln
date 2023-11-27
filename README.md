@@ -4,6 +4,25 @@
 <img src="https://readme-typing-svg.demolab.com?font=comic+sense&weight=600&size=23&pause=1000&color=1E88E5&vCenter=true&width=800&height=60&lines=Hi,+I+👋+am+Murat;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+Front+End+Developer.;%F0%9F%93%91+Studying+on+being+Full+Stack+Developer.+;%F0%9F%92%99+Love+to+learn+new+stuffs." alt="Typing SVG" />
 </a>
 
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary> <img src = "./assets/img/about_me.gif" width = 50px ><h2 style="display: inline-block">About me</h2></summary>
+  </ul>
+</div>
+
+
+<p>  Hello, and welcome to my GitHub profile! I'm a full-stack developer who believes in the power of code. I thrive on continually improving myself at every stage of the software development process and adapting to new technologies. I am constantly learning and experimenting with new technologies and frameworks to find the best solutions to the problems at hand. </p>
+
+
+
+
+
+
+
+
+
+
 ## Hi there 👋 I'm MURAT
 
 [![](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.pngstyle=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murat-kaplan-9aa005130/) 
