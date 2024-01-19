@@ -63,7 +63,7 @@
 <!--https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 <!--tech stack icons-->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,nodejs,express,mongodb,postgres,sqlite,mysql,nextjs,ts,react,js,py,css,html,bootstrap,materialui,tailwind,sass,styledcomponents,linux,git,github,postman,vercel,netlify,vite,vscode,discord&perline=14" />
   </a>
@@ -74,6 +74,7 @@
     <summary><h2 style="display: inline-block">My Projects⚒💻</h2></summary>
   </ul>
 </div>
+-->
 
 
 
