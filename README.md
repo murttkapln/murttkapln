@@ -89,8 +89,9 @@ Project Name       |Libraries and Technologies I use     |How does my project lo
 [FoodRecipe-App](https://food-recipe-app-mu.vercel.app) |  React,  CSS, Context Api, ApiServer, React-Router | ![foodrecipe](https://github.com/AliDurul/Food-Recipe-App/assets/80897590/ce752921-a133-468f-a928-d1bc6e3eaa46)
 [Appoinment-App](https://appointment-app-ten.vercel.app) |    React-Booststrap,  React, Javascript, Html, Css | ![appointmentApp](https://github.com/AliDurul/Appointment-App/assets/80897590/b66d1612-3660-475e-940e-ca40940eec97)
 [Router Intro Project](https://router-intro-project.vercel.app) |  Booststrap, React, React Router , Javascript, Api-Server,  Html, Css | ![introRouter](https://github.com/AliDurul/Router-intro-project/assets/80897590/a2bff4b6-8fad-44ba-a500-c84b52390ed6)
-[Random-User-Generator](https://random-user-generator-app.vercel.app)| React, Bootstrao, Js|![randomUser](https://github.com/AliDurul/Random-User-Generator-App/assets/80897590/9ba3910e-2aa0-4b81-ad5d-6df206ae02cd)
-[NBA-Legends](https://nba-legend.vercel.app)| React, Bootstrap, Api-Server | ![nbaLegends](https://github.com/AliDurul/NBA-Legends/assets/80897590/1acc2dcb-3705-4ea4-8b90-554716ee596c)
+[Random-User-Generator](https://random-user-generator-app.vercel.app)| React, Bootstrao, Js|![randomUser](https://github.com/AliDurul/Random-User-Generator-App/assets/80897590/9ba3910e-2aa0-4b81-ad5d-6df206ae02cd) -->
+[NBA-Legends](https://nba-legends-app-01.netlify.app)| React, Bootstrap, Api-Server | ![nbaLegends](./nba-legends.gif)
+<!--
 [Typescript-Todo-App]()| Typescript,  React, Material UI, Js, Mock-Api | ![typescripttodo](https://github.com/AliDurul/TypeScript-Todo-App/assets/80897590/007bc20a-17fa-4ea1-badc-cd7d60b4de57)
 [Horoscope-App](https://app-horoscope.vercel.app)| React - Sass - ApiServer | ![horroscope](https://github.com/AliDurul/Horoscope-App/assets/80897590/8e00dbaf-e333-4da9-a050-a0c73d211765)
 [Tutorial App](https://tut0rial-app.vercel.app)|Booststrap, React, Database-Server, Javascript |![tutorialapp](https://github.com/AliDurul/Tutorial-App/assets/80897590/f66a6550-ccca-4373-adc8-6e093b101811)
