@@ -84,7 +84,7 @@ Project Name       |Libraries and Technologies I use     |How does my project lo
 [MernStack-StockApp](https://stock-app-tfdl.onrender.com/)| React, Node-Expres.js, MongoDB Material UI, Redux-Toolkit | ![stockapp](https://github.com/AliDurul/FullStack-Stock-App/assets/80897590/26627259-cb60-47d9-bd50-8c64f7877254)
 [MernStack_Blog-App](https://blog-app-mk.vercel.app/)| React, Node-Expres.js, MongoDB, Material UI, Redux-Toolkit | ![blog app](https://github.com/AliDurul/MernStack_Blog-App/assets/80897590/1d78fdb1-5326-4237-b630-097889dbc09a)
 [Movie-App](https://movie-app-mk.vercel.app/)| React, Tailwind CSS, Context Api, ApiServer| ![movieapp](https://github.com/AliDurul/Firebase-Movie-App/assets/80897590/89c7bdcd-c9f4-4c47-bbd3-f918e1a09de5)
-[NBA-Legends](https://nba-legends-app-01.netlify.app)| React, Bootstrap, Api-Server | ![nbaLegends](https://github.com/murttkapln/nba-legends-app/src/assets/nba-legends.gif)
+[NBA-Legends](https://nba-legends-app-01.netlify.app)| React, Bootstrap, Api-Server | ![nbaLegends](https://github.com/murttkapln/nba-legends-app/assets/nba-legends.gif)
 <!-- 
 
 [Lee-Library](https://tailwind-shopping-cartt.vercel.app)| React, StyledComponent CSS, Context Api, ApiServer|![LeeLibrirary](https://github.com/AliDurul/Lee-Library/assets/80897590/76766085-6395-4bbd-a285-6acbaab5bedc)
