@@ -1,8 +1,14 @@
 ![MasterHead](https://rishavanand.github.io/static/images/greetings.gif
 )
+ <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=comic+sense&weight=600&size=23&pause=1000&color=1E88E5&vCenter=true&width=800&height=60&lines=Hi,+I+am+Murat.;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+Front+End+Developer.;%F0%9F%93%91+Studying+on+being+Full+Stack+Developer.+;%F0%9F%92%99+Love+to+learn+new+stuffs" alt="Typing SVG" />
+</a>
+
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Murat!;I+👋+am+a+FullStack+Developer!;&font=Fira%20Code&justify=start&width=380&height=30&duration=4000&pause=1000" alt=" README Typing SVG">
 </p>
+-->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
