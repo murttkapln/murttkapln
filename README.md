@@ -85,13 +85,12 @@ Project Name       |Libraries and Technologies I use     |How does my project lo
 [MernStack_Blog-App](https://blog-app-mk.vercel.app/)| React, Node-Expres.js, MongoDB, Material UI, Redux-Toolkit | ![blog app](https://github.com/AliDurul/MernStack_Blog-App/assets/80897590/1d78fdb1-5326-4237-b630-097889dbc09a)
 [Movie-App](https://movie-app-mk.vercel.app/)| React, Tailwind CSS, Context Api, ApiServer| ![movieapp](https://github.com/AliDurul/Firebase-Movie-App/assets/80897590/89c7bdcd-c9f4-4c47-bbd3-f918e1a09de5)
 [Appoinment-App](appointment-app-v1.netlify.app) |    React-Booststrap,  React, Javascript, Html, Css | ![appointmentApp](https://github.com/murttkapln/appoinment-app/assets/98225860/a65d333a-c939-4c96-9e01-dd144eeb6424)
-[NBA-Legends](https://nba-legends-app-01.netlify.app)| React, Bootstrap, Api-Server | ![nbaLegends](src/assets/nba-legends.gif)
+[NBA-Legends](https://nba-legends-app-01.netlify.app)| React, Bootstrap, Api-Server | ![nbaLegends](https://github.com/murttkapln/nba-legends-app/blob/master/src/assets/nba-legends.gif)
 <!-- 
 
 [Lee-Library](https://tailwind-shopping-cartt.vercel.app)| React, StyledComponent CSS, Context Api, ApiServer|![LeeLibrirary](https://github.com/AliDurul/Lee-Library/assets/80897590/76766085-6395-4bbd-a285-6acbaab5bedc)
 [Shopping-Cart](https://tailwind-shopping-cartt.vercel.app)| React, Tailwind CSS, Context Api, ApiServer|![shoppingCart](https://github.com/AliDurul/Shopping-Cart/assets/80897590/d492d45f-b971-4a68-817e-a9d18a53cdbb)
 [FoodRecipe-App](https://food-recipe-app-mu.vercel.app) |  React,  CSS, Context Api, ApiServer, React-Router | ![foodrecipe](https://github.com/AliDurul/Food-Recipe-App/assets/80897590/ce752921-a133-468f-a928-d1bc6e3eaa46)
-[Appoinment-App](https://appointment-app-ten.vercel.app) |    React-Booststrap,  React, Javascript, Html, Css | ![appointmentApp](https://github.com/AliDurul/Appointment-App/assets/80897590/b66d1612-3660-475e-940e-ca40940eec97)
 [Router Intro Project](https://router-intro-project.vercel.app) |  Booststrap, React, React Router , Javascript, Api-Server,  Html, Css | ![introRouter](https://github.com/AliDurul/Router-intro-project/assets/80897590/a2bff4b6-8fad-44ba-a500-c84b52390ed6)
 [Random-User-Generator](https://random-user-generator-app.vercel.app)| React, Bootstrao, Js|![randomUser](https://github.com/AliDurul/Random-User-Generator-App/assets/80897590/9ba3910e-2aa0-4b81-ad5d-6df206ae02cd)
 [Typescript-Todo-App]()| Typescript,  React, Material UI, Js, Mock-Api | ![typescripttodo](https://github.com/AliDurul/TypeScript-Todo-App/assets/80897590/007bc20a-17fa-4ea1-badc-cd7d60b4de57)
