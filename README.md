@@ -1,7 +1,7 @@
 ![MasterHead](https://rishavanand.github.io/static/images/greetings.gif
 )
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Murat+Kaplan!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Murat+Kaplan!;Add+a+bio+to+your+profile!;I+am+a+Full+Sra++tack+Developer!;&font=Fira%20Code&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <!--h2 without bottom border-->
